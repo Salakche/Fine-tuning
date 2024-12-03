@@ -1,6 +1,6 @@
 # Fine-tuning
 
-## Project: Fine-Tuning LLaMA3-8B for a Honeypot
+## Project: Fine-Tuning LLaMA3-8B for my Honeypot
 
 In this project, I am fine-tuning the **LLaMA3-8B** model. Since I am working with a single Kaggle GPU, I am using Meta's **LoRA** (Low-Rank Adaptation) method to optimize training efficiency. 
 
